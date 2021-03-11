@@ -34,4 +34,5 @@ body {
   height: 60px;
   width: 5px;
   margin: 0 2px;
+  animation: wavy 1.2s infinite ease-in-out;
 }
